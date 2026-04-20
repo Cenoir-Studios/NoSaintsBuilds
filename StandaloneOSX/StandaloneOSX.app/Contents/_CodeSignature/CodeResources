@@ -806,11 +806,11 @@
 		</data>
 		<key>Resources/Data/boot.config</key>
 		<data>
-		Ak6JCDcjxI5HjuXYdpUH/c0chsg=
+		taZGHoyRomLNijpCIYKw9mW7OFk=
 		</data>
 		<key>Resources/Data/globalgamemanagers</key>
 		<data>
-		yJmnP/7kdgE7FBw273dcxMEENdQ=
+		FaUYsjm+ZpQswEfAYG7yFhEpLl4=
 		</data>
 		<key>Resources/Data/globalgamemanagers.assets</key>
 		<data>
@@ -826,7 +826,7 @@
 		</data>
 		<key>Resources/Data/level1</key>
 		<data>
-		G9YiArfGA52ja9g5k/LY6jyPQZc=
+		NrofgCpSixMcWCtfkXsGkXrSMTQ=
 		</data>
 		<key>Resources/Data/level2</key>
 		<data>
@@ -854,7 +854,7 @@
 		</data>
 		<key>Resources/Data/resources.assets</key>
 		<data>
-		u+7p4N2NYqBRGxg6DxvOSJuWQPs=
+		A4LQHm3YRjnFiEAVzowQPnbRZNk=
 		</data>
 		<key>Resources/Data/resources.assets.resS</key>
 		<data>
@@ -874,7 +874,7 @@
 		</data>
 		<key>Resources/Data/sharedassets1.assets</key>
 		<data>
-		qbrGF4GHAdn0NO6v7FXZRNwzGNs=
+		6MeFVcwUjLS89B/mQpZjgb++IXw=
 		</data>
 		<key>Resources/Data/sharedassets1.assets.resS</key>
 		<data>
@@ -2514,14 +2514,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vqmMzxTtEL54C2nImbuL7efmMcXzU8LgwlL4UFK5X/c=
+			pK9c6UMxqgG3NzzxPNMdRUd5rS5Q/jfZvCQ1JIOzC/s=
 			</data>
 		</dict>
 		<key>Resources/Data/globalgamemanagers</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LQZ63YFd89QE9xwK8AI4YNraBdmBwBsw8djsCT6JFKo=
+			Vixld9oV7Ubka7XqwsRgvT3/xCocQlAvtzYVf5Hav6U=
 			</data>
 		</dict>
 		<key>Resources/Data/globalgamemanagers.assets</key>
@@ -2549,7 +2549,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sofTyr/Bm6KWn+bLJoDh/sj/YMSg28vUbHm9KgJvV6w=
+			ZezfCeaGqh66mXgDc0b3IVxx+o7re5htQOt5H0D+Qz0=
 			</data>
 		</dict>
 		<key>Resources/Data/level2</key>
@@ -2598,7 +2598,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+/2qS1letIxEjtOQlT7ldzh5JVY1WV68S3XWUm1iQDc=
+			jPxUd1IhZusMeA5M+5s7M0CsTMSZ8K7sH28bCZBgUlc=
 			</data>
 		</dict>
 		<key>Resources/Data/resources.assets.resS</key>
@@ -2633,7 +2633,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JMhPhIciP9/nohFbU0ryS/Mvnu/ewXDJ8zIEIZBZlYs=
+			Ty489x5c+gWgQub57u2WSSzeRPxNiZkryAdhYmGfRyw=
 			</data>
 		</dict>
 		<key>Resources/Data/sharedassets1.assets.resS</key>
