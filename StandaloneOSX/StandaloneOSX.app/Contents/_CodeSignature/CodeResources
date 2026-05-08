@@ -902,11 +902,11 @@
 		</data>
 		<key>Resources/Data/boot.config</key>
 		<data>
-		oEQB6u8yEYFTcG5gUvX+DAUIsPQ=
+		ag2LcTqVSKW6JoA8k15GJU60Pck=
 		</data>
 		<key>Resources/Data/globalgamemanagers</key>
 		<data>
-		786gPE7OS9fkmEFgYVa8BX6cVAk=
+		z7aMvcIkT3Hlrkz7TLDCIAWsxkk=
 		</data>
 		<key>Resources/Data/globalgamemanagers.assets</key>
 		<data>
@@ -962,7 +962,7 @@
 		</data>
 		<key>Resources/Data/resources.assets</key>
 		<data>
-		TmfYjZqQc4XSTVl+GNeNfdwDrXQ=
+		dkFbMC0CSBoSlI5vRgWJnLUO96I=
 		</data>
 		<key>Resources/Data/resources.assets.resS</key>
 		<data>
@@ -1233,10 +1233,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			RksvXYkq4DsRJ20+g+ky9Xx0EwU=
+			Zjlsxb+fdHtt6LjILmoOyAoM5Ew=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"464b2f5d892ae03b11276d3e83e932f57c741305" or cdhash H"45e54fa67ddc7a2f99e8335b42ddcd7c1c7daa8c"</string>
+			<string>cdhash H"66396cc5bf9f747b6de8b8c82e6a0ec80a0ce44c" or cdhash H"885ae76cc0bc0e41a18bf399eaceb91905129f74"</string>
 		</dict>
 		<key>Resources/Data/Managed/AYellowpaper.SerializedCollections.dll</key>
 		<dict>
@@ -2810,14 +2810,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mTO3rIaMy+1l7WqpJzxccna6imHzg49ubvP3bgFuQ3A=
+			DBrJ0+IU89usRB4wQPvJWTARDRv/Y8s/oDo9zFyjt9g=
 			</data>
 		</dict>
 		<key>Resources/Data/globalgamemanagers</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ozxv75LOYAHm4hxAifJHQPSlp9FDUXmoexP2g4CTKxc=
+			XDTQhjTvpGSH4tjgofhHQ4ta3LRAVjUx8F8h1cdt08Y=
 			</data>
 		</dict>
 		<key>Resources/Data/globalgamemanagers.assets</key>
@@ -2915,7 +2915,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ibdqnKx70gTcIrUKRcOlnNJrv5OYtmY4/Po/kLh0IyA=
+			6UxzTYkdYfCJjcThxYJkxZ5VRqdIkuZck50qVnXQ0ms=
 			</data>
 		</dict>
 		<key>Resources/Data/resources.assets.resS</key>
