@@ -1,0 +1,46 @@
+name: Publish Release
+
+on:
+  schedule:
+    - cron: '0 7 * * 1'  # Every Monday at 09:00 Warsaw time (CEST / UTC+2)
+
+  workflow_dispatch:
+
+jobs:
+  release:
+    name: Upload ${{ matrix.branch }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    strategy:
+      fail-fast: false
+      matrix:
+        branch:
+          - StandaloneWindows
+          - StandaloneWindows64
+          - StandaloneLinux64
+          - StandaloneOSX
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ matrix.branch }}
+          lfs: true
+
+      - name: Upload asset to latest release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          ZIP_FILE=$(find . -maxdepth 1 -name '*.zip' -print -quit)
+
+          if [ -z "$ZIP_FILE" ]; then
+            echo "::notice::No zip file found on branch ${{ matrix.branch }}"
+            exit 0
+          fi
+
+          gh release create latest \
+            --title "Latest Build" \
+            --notes "Automatically updated builds from the CI pipeline." \
+            --latest 2>/dev/null || true
+
+          gh release upload latest "$ZIP_FILE" --clobber
